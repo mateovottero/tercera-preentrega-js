@@ -56,7 +56,7 @@ const productos =
         tipo: "auriculares",
         desc: "auriculares HyperX Cloud II",
         precio: 50000,
-        imagen: 'public/images/auriculares.jpg',
+        imagen: '../public/images/auriculares.jpg',
         cantidad:1
     },
     {
