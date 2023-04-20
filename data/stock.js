@@ -6,7 +6,7 @@ const productos =
         tipo: "buzo",
         desc: "I9 10900K LGA1200",
         precio: 335200,
-        imagen: '../public/images/procesador.jpg',
+        imagen: './public/images/procesador.jpg',
         cantidad:1
     },
 
